@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins&display=swap');
+
+$orangeColor: rgb(255, 123, 0);
+$peachColor: rgb(245, 128, 128);
+
+html, body{
+    background: linear-gradient(to right top, $orangeColor, $peachColor);
+    height: 100%;
+    font-family: 'Lato';
+    color: #fff;
+}
